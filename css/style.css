@@ -9,7 +9,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #fffffb 50%, #F8F8FA 50%);
+    background: linear-gradient(to right, #eaeae9 50%, #969698 50%);
     font-family: Nunito, sans-serif;
 }
 
@@ -170,8 +170,10 @@ header{
 #popup__btn:hover {
     background-color: #e84556;
 }
+<<<<<<< HEAD
 /* Change 1 in css */ 
 /* Change 2 in css */ 
 /* Change 3 in css */ 
 /* Change 4 in css */ 
 /* Change 5 in css */ 
+=======
