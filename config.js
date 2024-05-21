@@ -2,3 +2,4 @@
 console.log('Hello from dev-2 branch!');"// Modified code" 
 console.log("Hello, world!"); 
 console.log("Hello, world!"); 
+console.log("New message in console"); 
